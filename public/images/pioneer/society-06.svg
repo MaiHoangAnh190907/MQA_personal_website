@@ -1,0 +1,15 @@
+<svg width="900" height="700" viewBox="0 0 900 700" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Society — team teaching underserved students">
+  <defs>
+    <pattern id="diag-kjenn1" width="28" height="28" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="0" y2="28" stroke="#35D9CF" stroke-opacity="0.16" stroke-width="10" />
+    </pattern>
+  </defs>
+  <rect width="900" height="700" fill="#E4FAF8" />
+  <rect width="900" height="700" fill="url(#diag-kjenn1)" />
+  <rect x="14" y="14" width="872" height="672" fill="none" stroke="#35D9CF" stroke-width="3" stroke-dasharray="2 14" stroke-linecap="round" />
+  <text x="50%" y="292.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.8412" letter-spacing="3" font-weight="700" fill="#35D9CF">PLACEHOLDER</text>
+  <text x="50%" y="327" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.26" font-weight="700" fill="#111111" opacity="0.62">Society — team</text>
+    <text x="50%" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.26" font-weight="700" fill="#111111" opacity="0.62">teaching underserved</text>
+    <text x="50%" y="373" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.26" font-weight="700" fill="#111111" opacity="0.62">students</text>
+  <text x="50%" y="672" text-anchor="middle" font-family="monospace" font-size="11" fill="#111111" opacity="0.4">images/pioneer/society-06.svg</text>
+</svg>

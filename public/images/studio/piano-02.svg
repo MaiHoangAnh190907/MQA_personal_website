@@ -1,0 +1,13 @@
+<svg width="1000" height="750" viewBox="0 0 1000 750" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Piano — recital moment">
+  <defs>
+    <pattern id="diag-2d1m2m" width="28" height="28" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="0" y2="28" stroke="#35D9CF" stroke-opacity="0.16" stroke-width="10" />
+    </pattern>
+  </defs>
+  <rect width="1000" height="750" fill="#E4FAF8" />
+  <rect width="1000" height="750" fill="url(#diag-2d1m2m)" />
+  <rect x="14" y="14" width="972" height="722" fill="none" stroke="#35D9CF" stroke-width="3" stroke-dasharray="2 14" stroke-linecap="round" />
+  <text x="50%" y="336" text-anchor="middle" font-family="Arial, sans-serif" font-size="9.9944" letter-spacing="3" font-weight="700" fill="#35D9CF">PLACEHOLDER</text>
+  <text x="50%" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="16.12" font-weight="700" fill="#111111" opacity="0.62">Piano — recital moment</text>
+  <text x="50%" y="722" text-anchor="middle" font-family="monospace" font-size="11" fill="#111111" opacity="0.4">images/studio/piano-02.svg</text>
+</svg>
