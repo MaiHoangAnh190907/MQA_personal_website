@@ -47,20 +47,20 @@ export const aboutMe: StoryBlock = {
 
 export const chapterPreviews: ChapterPreview[] = [
   {
-    id: "speak-to-empower",
+    id: "leadership",
     eyebrow: "Chap 1",
-    title: "Speak to Empower",
+    title: "Leadership",
     summary:
-      "How a childhood love of the microphone turned into debate rounds, MUN conferences, a TEDx talk, and eventually, a bootcamp built to hand the mic to someone else.",
+      "Celebrating Vietnamese heritage with the VSA, guiding classmates through biology as a peer tutor, and teaching Vietnamese to young students at Minh Đăng Quang Temple.",
     image: {
       src: "/images/home/chapter-1-preview.svg",
-      alt: "Placeholder — public speaking moment",
+      alt: "Placeholder — leadership moment",
       width: 1200,
       height: 900,
       accent: "cyan",
     },
     ctaLabel: "Explore more",
-    href: "/speak-to-empower",
+    href: "/leadership",
     accent: "cyan",
   },
   {
